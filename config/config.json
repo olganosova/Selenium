@@ -1,0 +1,7 @@
+{
+  "base_url": "http://sdisvrba505.scglobaluat.aduat.scotiacapital.com:8181/success/s9",
+  "headless": "True",
+  "parallel_mode": "False",
+  "chromedriver_logging_on": "True",
+  "wait_time" : "69"
+}

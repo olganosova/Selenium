@@ -1,0 +1,4 @@
+approvaltests==0.2.2
+PyPOM==1.2.0
+pytest==3.2.3
+selenium==3.6.0

@@ -1,0 +1,27 @@
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.cache/
+
+# log files
+geckodriver.log
+ghostdriver.log
+chromedriver.log
+myoutput.log
+py_selenium/myoutput.log
+test_reports.xml
+
+# openpyxl temp files
+~$*
+
+screenshots/
+
+# pytest reports
+report.html
+test_results.xml
+
+# approval test received files
+**/*.received.txt
+
+
